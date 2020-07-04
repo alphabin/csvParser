@@ -1,4 +1,4 @@
-const programController = require('./controller/appRunner');
+const programStart = require('./controller/appRunner');
 
-
-programController();
+//This files is our entry point for the app main
+programStart();
