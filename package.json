@@ -1,0 +1,20 @@
+{
+  "name": "csvparser",
+  "version": "1.0.0",
+  "description": "Simple csv parse with workers implmentation",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphabin/csvParser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphabin/csvParser/issues"
+  },
+  "homepage": "https://github.com/alphabin/csvParser#readme"
+}
